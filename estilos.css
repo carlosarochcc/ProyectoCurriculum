@@ -1,0 +1,22 @@
+h1{
+    background: blue;
+    color: white;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+div{
+    text-align: center;
+    color: red;
+}
+
+img{
+    width: 30%;
+    height: 50vh;
+    border-radius: 50px;
+
+}
